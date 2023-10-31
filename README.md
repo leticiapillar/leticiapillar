@@ -8,19 +8,19 @@ Experienced software developer with a proven track record of helping companies s
 
 Expertise in:
 
-- ✅ Back-end development with Java, Spring Framework, and Spring Boot.
-- ✅ Building API Rest using best practices and documentation using Swagger.
-- ✅ Experience working on Oracle database, PL/SQL, MongoDB, MySQL, and PostgreSQL.
-- ✅ Building microservices architectures and implementing asynchronous communication using Apache Kafka.
-- ✅ Unit testing frameworks such as JUnit, Mockito, and REST Assured.
-- ✅ Continuous integration and deployment (CI/CD) environment (Git, Gitflow, Gitlab, Github, Jenkins, Docker, and Kubernetes).
+- ✅  Back-end development with Java, Spring Framework, and Spring Boot.
+- ✅  Building API Rest using best practices and documentation using Swagger.
+- ✅  Experience working on Oracle database, PL/SQL, MongoDB, MySQL, and PostgreSQL.
+- ✅  Building microservices architectures and implementing asynchronous communication using Apache Kafka.
+- ✅  Unit testing frameworks such as JUnit, Mockito, and REST Assured.
+- ✅  Continuous integration and deployment (CI/CD) environment (Git, Gitflow, Gitlab, Github, Jenkins, Docker, and Kubernetes).
 
 Other Skills:
 
-- ✔️ Experience working remotely in teams that use agile methodologies.
-- ✔️ Organized, independent, problem solver and I'm always with a proactive attitude.
-- ✔️ Collaborative team player, involved in discussions about technical definitions of the solutions I help to deliver.
-- ✔️ Dedicated self-taught and curious about the different purposes and problems that a particular technology tries to solve to help people build digital solutions that deliver value.
+- ✔️  Experience working remotely in teams that use agile methodologies.
+- ✔️  Organized, independent, problem solver and I'm always with a proactive attitude.
+- ✔️  Collaborative team player, involved in discussions about technical definitions of the solutions I help to deliver.
+- ✔️  Dedicated self-taught and curious about the different purposes and problems that a particular technology tries to solve to help people build digital solutions that deliver value.
 
 
 * 🌍  I'm based in Brazil, working remotely for North America and Europe
@@ -37,13 +37,3 @@ Other Skills:
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/leticiapillar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/leticia-pillar-lisboa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/leticiapillar/pem4blockehr" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiapillar&repo=pem4blockehr&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/leticiapillar/products-api-rest" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiapillar&repo=products-api-rest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/leticiapillar/ethereum-erc20-token-sale" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiapillar&repo=ethereum-erc20-token-sale&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>

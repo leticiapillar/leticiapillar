@@ -24,6 +24,7 @@ Other Skills:
 
 
 * 🌍  I'm based in Brazil, working remotely for North America and Europe
+* 🧠  I'm learning Artificial Intelligence, Generative AI, Machine Learning
 * 🧠  I'm learning Java, Golang, Python, Software Engineer, System Design, Software Architecture
 
 
